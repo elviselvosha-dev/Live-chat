@@ -1,0 +1,6 @@
+{
+  "name": "Kinbook",
+  "description": "Android-first social community with Feed, Reels, Private Messaging, Followers, Live Streaming, Local Marketplace, and Zero-Data Free Mode.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
